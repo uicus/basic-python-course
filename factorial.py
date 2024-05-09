@@ -57,5 +57,5 @@ def factorial_exceptional(n):
 
 print(factorial(15))
 print(factorial_recursive(15))
-# print(factorial_with_accumulator(15))
+print(factorial_with_accumulator(15))
 print(factorial_exceptional(15))
